@@ -88,7 +88,7 @@ body {
 
 .app {
   position: relative;
-  max-width: 1240px;
+  max-width: 1400px;
   margin: 0 auto;
   backdrop-filter: blur(6px);
 }
